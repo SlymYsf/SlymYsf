@@ -67,7 +67,7 @@
       <br>CSS3
     </td>
     <td align="center" width="120" height="96">
-      <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/laravel-blade.svg" width="48" height="48" alt="Blade" />
+      <img src="https://img.shields.io/badge/Blade-F05340?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade" />
       <br>Blade
     </td>
     <td align="center" width="120" height="96">
@@ -116,7 +116,7 @@
       <br>MySQL
     </td>
     <td align="center" width="120" height="96">
-      <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/laragon.svg" width="48" height="48" alt="Laragon" />
+      <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logoColor=white" alt="Laragon" />
       <br>Laragon
     </td>
     <td align="center" width="120" height="96">
@@ -124,7 +124,7 @@
       <br>Git
     </td>
     <td align="center" width="120" height="96">
-      <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/phpunit.svg" width="48" height="48" alt="PHPUnit" />
+      <img src="https://img.shields.io/badge/PHPUnit-3E863D?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit" />
       <br>PHPUnit
     </td>
   </tr>
@@ -133,7 +133,7 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SlymYsf&show_icons=true&theme=default&hide_border=true&title_color=00B37A&icon_color=00B37A" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SlymYsf&show_icons=true&theme=default&hide_border=true&title_color=00B37A&icon_color=00B37A&cache_seconds=86400" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SlymYsf&hide_border=true&ring=00B37A&fire=00B37A&currStreakLabel=00B37A" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlymYsf&layout=compact&hide_border=true&title_color=00B37A" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlymYsf&layout=compact&hide_border=true&title_color=00B37A&cache_seconds=86400" alt="Top Languages" />
 </div>
