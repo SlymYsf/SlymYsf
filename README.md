@@ -19,7 +19,7 @@
 ## About Me
 
 - I am a **Information Systems Engineering student** and an **aspiring full-stack developer**.
-- I am **19 years old** and based in **İstanbul, Türkiye**.
+- I am **20 years old** and based in **İstanbul, Türkiye**.
 - I am studying at **Kocaeli University**, Information Systems Engineering.
 - I recently completed a **mandatory internship at Kodpit Teknoloji A.Ş.**.
 - My daily stack is **PHP, Laravel, MySQL, vanilla JS/CSS, Blade, and PHPUnit**.
@@ -30,7 +30,7 @@
 ## Hakkımda
 
 - **Bilişim Sistemleri Mühendisliği öğrencisiyim** ve **full-stack developer** olma yolunda ilerliyorum.
-- **19 yaşındayım** ve **İstanbul, Türkiye**'de yaşıyorum.
+- **20 yaşındayım** ve **İstanbul, Türkiye**'de yaşıyorum.
 - **Kocaeli Üniversitesi** Bilişim Sistemleri Mühendisliği'nde okuyorum.
 - Yakın zamanda **Kodpit Teknoloji A.Ş.**'de **zorunlu stajımı** tamamladım.
 - Günlük olarak **PHP, Laravel, MySQL, vanilla JS/CSS, Blade ve PHPUnit** kullanıyorum.
@@ -129,11 +129,3 @@
     </td>
   </tr>
 </table>
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SlymYsf&show_icons=true&theme=default&hide_border=true&title_color=00B37A&icon_color=00B37A&cache_seconds=86400" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SlymYsf&hide_border=true&ring=00B37A&fire=00B37A&currStreakLabel=00B37A" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlymYsf&layout=compact&hide_border=true&title_color=00B37A&cache_seconds=86400" alt="Top Languages" />
-</div>
