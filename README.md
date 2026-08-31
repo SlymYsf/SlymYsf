@@ -105,10 +105,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48" height="48" alt="IntelliJ IDEA" />
       <br>IntelliJ IDEA
     </td>
-    <td align="center" width="120" height="96">
-      <img src="https://img.shields.io/badge/-MS%20SQL-4479A1?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MS SQL" height="48" />
-      <br>MS SQL
-    </td>
   </tr>
   <tr>
     <td align="center" width="120" height="96">
