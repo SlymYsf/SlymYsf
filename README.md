@@ -107,7 +107,7 @@
     </td>
     <td align="center" width="120" height="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SSMS" />
-      <br>SSMS
+      <br>MS SQL
     </td>
   </tr>
   <tr>
